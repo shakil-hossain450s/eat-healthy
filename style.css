@@ -1,0 +1,75 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 45px;
+    color: #575757;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+h3 {
+    font-size: 30px;
+    color: #707070;
+}
+
+.orange {
+    color: #FB954B;
+}
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.h1-tag {
+    margin-bottom: 50px;
+}
+
+.half-width {
+    width: 40%;
+    padding-left: 5%;
+    padding-right: 10%;
+}
+
+.half-width p {
+    color: #828282;
+}
+
+.half-width img {
+    width: 110%;
+}
+
+.header-content {
+    margin-top: 10%;
+}
+
+.click-button {
+    text-decoration: none;
+    background-image: linear-gradient(#FB8E48, #FD5432);
+    padding: 15px 30px;
+    color: #fff;
+    border-radius: 30px;
+}
+
+.btn {
+    margin-top: 50px;
+}
+
+.about-me-section {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+}
+
+.contact-me-button {
+    margin-top: 90px;
+}
+
+.about-p {
+    text-align: justify;
+}
